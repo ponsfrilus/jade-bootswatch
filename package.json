@@ -1,0 +1,38 @@
+{
+  "name": "jade-bootswatch",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.13.2",
+    "cookie-parser": "~1.3.5",
+    "debug": "~2.2.0",
+    "express": "~4.13.1",
+    "jade": "~1.11.0",
+    "morgan": "~1.6.1",
+    "serve-favicon": "~2.3.0"
+  },
+  "description": "A bootswatch integration with Express and Jade.",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ponsfrilus/jade-bootswatch.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "bootswatch",
+    "express",
+    "jade",
+    "node",
+    "node.js"
+  ],
+  "author": "Nicolas Borboën <ponsfrilus@gmail.com>",
+  "license": "GNU LESSER GENERAL PUBLIC LICENSE",
+  "bugs": {
+    "url": "https://github.com/ponsfrilus/jade-bootswatch/issues"
+  },
+  "homepage": "https://github.com/ponsfrilus/jade-bootswatch"
+}
